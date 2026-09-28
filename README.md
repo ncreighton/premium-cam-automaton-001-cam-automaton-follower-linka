@@ -1,0 +1,2 @@
+# premium-cam-automaton-001-cam-automaton-follower-linka
+Designing cam mechanisms and follower linkages shouldn't require scattered spreadsheets, sketches, and engineering software you don't understand. The Cam Automaton &amp; Follower Linkage Craft Hub brings all your mechanical design work into one beautifully organized Notion workspace.  This template eliminates the friction of tracking cam profiles, foll
